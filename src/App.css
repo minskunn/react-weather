@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  text-align: center;
+  font-weight: lighter;
+  margin-top: 50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.SearchWeather-form {
+  padding: 40px;
+  font-size: 18px;
+  text-align: center;
+}
